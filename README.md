@@ -2,7 +2,7 @@
 
 **TNL Hub** — A modern desktop application for tracking and managing vehicle telemetry data for Euro Truck Simulator 2, with Discord Rich Presence integration and real-time monitoring.
 
-![Version](https://img.shields.io/badge/version-0.0.3-blue)
+![Version](https://img.shields.io/badge/version-0.1.0-blue)
 ![License](https://img.shields.io/badge/license-Proprietary-red)
 ![Status](https://img.shields.io/badge/status-Active%20Development-green)
 
